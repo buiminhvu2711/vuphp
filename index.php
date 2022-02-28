@@ -20,6 +20,7 @@
 <p>Đây là commit git</p>
 <p>Đây là commit git-2</p>
 <p>Đây là commit git-3 đưa lên git hub</p> 
+<p>Đây là commit git-4 tạo branch</p> 
 </body>
 </html>
 
