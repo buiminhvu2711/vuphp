@@ -18,6 +18,7 @@
  <input type="submit" value="Search" name="submit">
 </form>
 <p>Đây là commit git</p>
+<p>Đây là commit git-2</p>
 </body>
 </html>
 
